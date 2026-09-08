@@ -1,6 +1,6 @@
 # 75Neo
 
-This is the official github organization for [75Neo](https://75neo.com).
+This is the official github organization for **75Neo**.
 
 ## Contribute
 
@@ -8,4 +8,4 @@ We welcome contributions in all forms. Please check the respective repositories 
 
 ## Join our community
 
-Join our [Discord](https://discord.gg/75neo)
+Join our [Discord](https://discord.gg/Gm9FJTEw5x)
