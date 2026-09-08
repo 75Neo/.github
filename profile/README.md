@@ -1,11 +1,13 @@
 # 75Neo
 
-This is the official github organization for **75Neo**.
+Welcome to the official GitHub organization for **75Neo**! :wave:
 
 ## Contribute
 
-We welcome contributions in all forms. Please check the respective repositories on how to contribute :)
+We welcome contributions of all kinds. Please check the respective repositories on how to contribute :)
 
-## Join our community
+## Join the Community
 
-Join our [Discord](https://discord.gg/Gm9FJTEw5x)
+Have a question, want to share an idea, or just want to meet other members of the community?
+
+Join our [Discord](https://discord.gg/Gm9FJTEw5x).
